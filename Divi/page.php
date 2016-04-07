@@ -11,6 +11,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 	<div class="container">
 		<div id="content-area" class="clearfix">
 			<div id="left-area">
+
 <?php endif; ?>
 
 			<?php while ( have_posts() ) : the_post(); ?>
@@ -19,6 +20,7 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 
 				<?php if ( ! $is_page_builder_used ) : ?>
 
+					<h1 class="main_title"><?php the_title(); ?></h1>
 				<?php
 					$thumb = '';
 
@@ -58,20 +60,11 @@ $is_page_builder_used = et_pb_is_pagebuilder_used( get_the_ID() ); ?>
 			</div> <!-- #left-area -->
 
 			<?php get_sidebar(); ?>
-		</div><!-- #content-area -->
+		</div> <!-- #content-area -->
 	</div> <!-- .container -->
 
 <?php endif; ?>
 
 </div> <!-- #main-content -->
 
-<script src="/js/headroom.min.js"></script>
-<script>
-	Headroom.options.tolerance = 20;
-	var header = document.getElementById('main-header');
-	console.dir(header);
-
-	var headroom = new Headroom(header);
-	headroom.init();
-</script>
 <?php get_footer(); ?>

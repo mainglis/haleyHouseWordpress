@@ -39,8 +39,7 @@
 				<?php endif; ?>
 				</ul>
 
-				<p id="footer-info"><?php printf( __( 'Designed at GiveCamp 2014', 'Divi' ), '<a href="http://newenglandgivecamp.org/" title="">Designed at GiveCamp 2014</a>', '' ); ?></p>
-			
+				<p id="footer-info"><?php printf( __( 'Designed by %1$s | Powered by %2$s', 'Divi' ), '<a href="http://www.elegantthemes.com" title="Premium WordPress Themes">Elegant Themes</a>', '<a href="http://www.wordpress.org">WordPress</a>' ); ?></p>
 			</div>	<!-- .container -->
 		</div>
 	</footer> <!-- #main-footer -->

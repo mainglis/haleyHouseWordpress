@@ -13,9 +13,7 @@
 <html <?php language_attributes(); ?>>
 <!--<![endif]-->
 <head>
-	<meta name="google-site-verification" content="V0_7eqP06DmjS2DcP1AhxH5mjeCajpkr90RGSooSPFI" />
 	<meta charset="<?php bloginfo( 'charset' ); ?>" />
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title><?php elegant_titles(); ?></title>
 	<?php elegant_description(); ?>
 	<?php elegant_keywords(); ?>
@@ -34,15 +32,9 @@
 		document.documentElement.className = 'js';
 	</script>
 
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<?php if(is_front_page() || $pagename == "overview") { // custom front page stuff?>
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/style.css" />
-<?php } ?>
-
 	<?php wp_head(); ?>
-
 </head>
-	<body <?php body_class(); ?> <?php if(is_front_page() || $pagename == "overview" || $pagename == "hometest") { ?> id="none" <?php } ?>>
+<body <?php body_class(); ?>>
 	<header id="main-header">
 		<div class="container clearfix">
 		<?php

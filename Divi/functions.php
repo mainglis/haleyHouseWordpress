@@ -1,30 +1,5 @@
 <?php
 
-// update_option('siteurl','http://haleyhouse.org/wp');
-// update_option('home','http://haleyhouse.org/wp');
-
-global $PROMO_TEXT;
-global $PROMO_LINK;
-
-/* ====================== THESE ARE THE SETTINGS FOR THE HOMEPAGE PROMO =======================================
- * Change these settings when you want to change the promo.
- * $PROMO_TEXT is the text to be displayed on the promo banner.
- * $PROMO_LINK is the URL address that clicking on the promo banner should link to.
- * DO NOT DELETE THE QUOTES OR THE SEMICOLON - these are necessary. Simply change what is INSIDE the quotations.
- * If you feel you have made a mistake, no problem - simply quit without saving and refresh.
- * Changing these settings will effect REAL, LIVE changes to the website!
- */
-
-$PROMO_TEXT = "Haley House is celebrating its 50th anniversary – click here for a calendar of events!";
-$PROMO_LINK = "http://www.haleyhouse.org/50years";
-
-/* ==================== END SETTINGS FOR THE HOMEPAGE PROMO - DON'T TOUCH BELOW HERE =========================== */
-
-/* These testing links aren't used anymore, disregard.
- */
-$PROMO_TEXT_TESTING = "This is a test!";
-$PROMO_LINK_TESTING = "http://www.google.com/";
-
 if ( ! isset( $content_width ) ) $content_width = 1080;
 
 function et_setup_theme() {
@@ -85,13 +60,13 @@ function et_divi_fonts_url() {
 	 * supported by Open Sans, translate this to 'off'. Do not translate
 	 * into your own language.
 	 */
-	$open_sans = _x( 'off', 'Open Sans font: on or off', 'Divi' );
+	$open_sans = _x( 'on', 'Open Sans font: on or off', 'Divi' );
 
 	/* Translators: If there are characters in your language that are not
 	 * supported by Raleway, translate this to 'off'. Do not translate into your
 	 * own language.
 	 */
-	$raleway = _x( 'off', 'Raleway font: on or off', 'Divi' );
+	$raleway = _x( 'on', 'Raleway font: on or off', 'Divi' );
 
 	if ( 'off' !== $open_sans || 'off' !== $raleway ) {
 		$font_families = array();
@@ -615,6 +590,8 @@ function et_divi_add_customizer_css(){ ?>
 		body { color: <?php echo esc_html( et_get_option( 'font_color', '#666666' ) ); ?>; }
 
 		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_pb_pricing_table_button, .comment-reply-link, .form-submit input { background-color: <?php echo esc_html( et_get_option( 'accent_color', '#7EBEC5' ) ); ?>; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: <?php echo esc_html( et_get_option( 'accent_color', '#7EBEC5' ) ); ?> !important; }
 
 		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price { color: <?php echo esc_html( et_get_option( 'accent_color', '#7EBEC5' ) ); ?> !important; }
 
@@ -1499,7 +1476,7 @@ function et_pb_cta( $atts, $content = null ) {
 			</div>
 			%3$s
 		</div>',
-		( '' !== $title ? '<h2>' . esc_html( $title ) . '</h2>' : '' ),
+		( '' !== $title ? '<h3>' . esc_html( $title ) . '</h3>' : '' ),
 		do_shortcode( et_pb_fix_shortcodes( $content ) ),
 		(
 			'' !== $button_url && '' !== $button_text
@@ -1653,7 +1630,7 @@ function et_pb_signup( $atts, $content = null ) {
 			</div>
 			%3$s
 		</div>',
-		( '' !== $title ? '<h2>' . esc_html( $title ) . '</h2>' : '' ),
+		( '' !== $title ? '<h3>' . esc_html( $title ) . '</h3>' : '' ),
 		do_shortcode( et_pb_fix_shortcodes( $content ) ),
 		$form,
 		esc_attr( $class ),
@@ -1939,7 +1916,7 @@ function et_pb_portfolio( $atts ) {
 		?>
 
 			<?php if ( 'on' === $show_title ) : ?>
-				<h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2>
+				<h5><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h5>
 			<?php endif; ?>
 
 			<?php if ( 'on' === $show_categories ) : ?>
