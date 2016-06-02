@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4e2ab0d6-a660-4a1b-a76e-80c0bd5b5b95" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/hhWordpress.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Divi/js/custom.js.backup" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/google-fonts/images/all-fonts.png" afterPath="$PROJECT_DIR$/Divi/epanel/google-fonts/images/all-fonts.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/active-mainlink-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/active-mainlink-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/ad-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/ad-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/blank.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/box-title-mark.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/box-title-mark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/checkbox-2.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/checkbox-2.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/checkbox.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/checkbox.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/colorization-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/colorization-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/colorpicker_overlay.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/colorpicker_overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/colorpicker_select.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/colorpicker_select.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_background.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_background.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_hex.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_hex.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_b.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_h.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_s.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_hsb_s.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_indic.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_indic.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_b.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_b.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_g.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_g.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_r.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_rgb_r.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/custom_submit.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/custom_submit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/defaults-hover.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/defaults-hover.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/defaults.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/defaults.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/description-bottom.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/description-bottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/description-close.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/description-close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/description-main.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/description-main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/description-top.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/description-top.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/empty.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/epanel-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/epanel-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/epanel-bottom-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/epanel-bottom-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-bottombg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-bottombg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-topbg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/epanel-content-topbg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/gallery-overlay.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/gallery-overlay.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/general-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/general-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/help-image.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/help-image.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/integration-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/integration-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/layout-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/layout-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/logo.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/logo.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/logo.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/mainlink-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/mainlink-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/mainmenu-li-bottom.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/mainmenu-li-bottom.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/navigation-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/navigation-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/no.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/no.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/panel-top-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/panel-top-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/postinfo-author.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/postinfo-author.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/postinfo-categories.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/postinfo-categories.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/postinfo-comments.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/postinfo-comments.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/postinfo-date.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/postinfo-date.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/save.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/save.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/saver.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/saver.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/secondary-active-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/secondary-active-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/secondary-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/secondary-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/secondary-li-mark.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/secondary-li-mark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/select.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/select.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/select2.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/select2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/seo-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/seo-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/slider.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/slider.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/support-icon.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/support-icon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/top-input-bg.png" afterPath="$PROJECT_DIR$/Divi/epanel/images/top-input-bg.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/images/yes.gif" afterPath="$PROJECT_DIR$/Divi/epanel/images/yes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-author.gif" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-author.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-boxes.gif" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-boxes.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-buttons.gif" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-buttons.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-tabs.gif" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-tabs.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-toggle.gif" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/icon-toggle.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/shortcodes-sprite.png" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/images/shortcodes-sprite.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.ttf" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.woff" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/fonts/ETmodules.ttf" afterPath="$PROJECT_DIR$/Divi/fonts/ETmodules.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/fonts/ETmodules.woff" afterPath="$PROJECT_DIR$/Divi/fonts/ETmodules.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/images/logo.png" afterPath="$PROJECT_DIR$/Divi/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/images/preloader.gif" afterPath="$PROJECT_DIR$/Divi/images/preloader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/de_DE.mo" afterPath="$PROJECT_DIR$/Divi/lang/de_DE.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/en_US.mo" afterPath="$PROJECT_DIR$/Divi/lang/en_US.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/ru_RU.mo" afterPath="$PROJECT_DIR$/Divi/lang/ru_RU.mo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/psd/logo.psd" afterPath="$PROJECT_DIR$/Divi/psd/logo.psd" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/psd/logo_blank.png" afterPath="$PROJECT_DIR$/Divi/psd/logo_blank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/core_functions.php" afterPath="$PROJECT_DIR$/Divi/epanel/core_functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/css/panel.css" afterPath="$PROJECT_DIR$/Divi/epanel/css/panel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/custom_functions.php" afterPath="$PROJECT_DIR$/Divi/epanel/custom_functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/google-fonts/et_google_fonts.css" afterPath="$PROJECT_DIR$/Divi/epanel/google-fonts/et_google_fonts.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/google-fonts/et_google_fonts.js" afterPath="$PROJECT_DIR$/Divi/epanel/google-fonts/et_google_fonts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/checkbox.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/checkbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/colorpicker.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/colorpicker.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/custom_uploader.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/custom_uploader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/eye.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/eye.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/functions-init.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/functions-init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/js/layout.js" afterPath="$PROJECT_DIR$/Divi/epanel/js/layout.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/options_divi.php" afterPath="$PROJECT_DIR$/Divi/epanel/options_divi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/post_thumbnails_divi.php" afterPath="$PROJECT_DIR$/Divi/epanel/post_thumbnails_divi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/css/shortcodes.css" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/css/shortcodes.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/css/shortcodes_responsive.css" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/css/shortcodes_responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/editor_plugin.dev.js" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/editor_plugin.dev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/editor_plugin.js" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/editor_plugin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/et_shortcodes_frontend.dev.js" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/et_shortcodes_frontend.dev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/et_shortcodes_frontend.js" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/js/et_shortcodes_frontend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/epanel/shortcodes/shortcodes.php" afterPath="$PROJECT_DIR$/Divi/epanel/shortcodes/shortcodes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/css/style.css" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/css/widgets.css" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/css/widgets.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/et-pagebuilder.php" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/et-pagebuilder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.eot" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.svg" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/fonts/etbuilder.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/js/admin.js" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/js/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/js/widgets.js" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/js/widgets.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/et-pagebuilder/layouts/layouts.php" afterPath="$PROJECT_DIR$/Divi/et-pagebuilder/layouts/layouts.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/fonts/ETmodules.eot" afterPath="$PROJECT_DIR$/Divi/fonts/ETmodules.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/fonts/ETmodules.svg" afterPath="$PROJECT_DIR$/Divi/fonts/ETmodules.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/functions/comments.php" afterPath="$PROJECT_DIR$/Divi/includes/functions/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/functions/installation.php" afterPath="$PROJECT_DIR$/Divi/includes/functions/installation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/functions/sidebars.php" afterPath="$PROJECT_DIR$/Divi/includes/functions/sidebars.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/functions/troubleshooting.php" afterPath="$PROJECT_DIR$/Divi/includes/functions/troubleshooting.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/functions/tutorials.php" afterPath="$PROJECT_DIR$/Divi/includes/functions/tutorials.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/navigation.php" afterPath="$PROJECT_DIR$/Divi/includes/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/no-results.php" afterPath="$PROJECT_DIR$/Divi/includes/no-results.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/subscription/mailchimp/MCAPI.class.php" afterPath="$PROJECT_DIR$/Divi/includes/subscription/mailchimp/MCAPI.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/widgets.php" afterPath="$PROJECT_DIR$/Divi/includes/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/widgets/widget-about.php" afterPath="$PROJECT_DIR$/Divi/includes/widgets/widget-about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/widgets/widget-ads.php" afterPath="$PROJECT_DIR$/Divi/includes/widgets/widget-ads.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/includes/widgets/widget-adsense.php" afterPath="$PROJECT_DIR$/Divi/includes/widgets/widget-adsense.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/js/custom.js" afterPath="$PROJECT_DIR$/Divi/js/custom.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/js/html5.js" afterPath="$PROJECT_DIR$/Divi/js/html5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/Divi/js/jquery.fitvids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/js/theme-customizer.js" afterPath="$PROJECT_DIR$/Divi/js/theme-customizer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/js/waypoints.min.js" afterPath="$PROJECT_DIR$/Divi/js/waypoints.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/de_DE.po" afterPath="$PROJECT_DIR$/Divi/lang/de_DE.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/en_US.po" afterPath="$PROJECT_DIR$/Divi/lang/en_US.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Divi/lang/ru_RU.po" afterPath="$PROJECT_DIR$/Divi/lang/ru_RU.po" />
+    </list>
+    <ignored path="hhWordpress.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hhWordpress" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="child-divi-theme-for-haley-house" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hhWordpress" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Divi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="hhWordpress" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="hhWordpress" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e2ab0d6-a660-4a1b-a76e-80c0bd5b5b95" name="Default" comment="" />
+      <created>1460030580979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1460030580979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

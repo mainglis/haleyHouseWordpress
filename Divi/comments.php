@@ -35,7 +35,7 @@
 
 		<?php if ( ! empty($comments_by_type['pings']) ) : ?>
 			<div id="trackbacks">
-				<h3 id="trackbacks-title"><?php esc_html_e('Trackbacks/Pingbacks','Divi') ?></h3>
+				<h3 id="trackbacks-title"><?php esc_html_e('Trackbacks/Pingbacks','Divi'); ?></h3>
 				<ol class="pinglist">
 					<?php wp_list_comments('type=pings&callback=et_list_pings'); ?>
 				</ol>
